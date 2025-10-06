@@ -1,3 +1,8 @@
+html {
+    display: grid;
+    justify-content: center;
+}
+
 #container {
     display: grid;
     grid-template-areas: "menu menu" "header header" "section aside" "footer footer";
